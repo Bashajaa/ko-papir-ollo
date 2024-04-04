@@ -1,0 +1,68 @@
+body{
+    height: 100vh;
+    margin: 50px;
+    background-image: url("images/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+}
+
+.cím{
+    font-size: 30px;
+    background-size:cover;
+    width: 500px;
+    background-color: rgba(250, 235, 215, 0.6) ;
+    border-radius: 3cm;
+    color:rgb(51, 39, 147);
+    font-weight: bold;
+    top: 70px;
+    padding:30px;
+}
+
+.lista.fixed{
+    position: fixed;
+    left:10px;
+    top:10px;
+    list-style: none;
+    text-align: left;
+    background-color: rgba(100, 148, 237, 0.45);
+    width: 170px;
+
+}
+
+.lista ul{
+    list-style: none;
+    text-align: left;
+    margin-left: 0px;
+}
+
+
+img{
+    height: 200px;
+
+}
+
+button{
+    padding-top: 150px;
+    height: 370px;
+    background-color: #00000000;
+    border: #00000000;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+a{
+    font-style: inherit;
+}
+
+.gomb{
+    height: 40px;
+    width: 170px;
+    padding: 0;
+    background-color: cornflowerblue;
+    font-size: 20px;
+}
